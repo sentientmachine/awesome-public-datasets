@@ -25,6 +25,11 @@ Agriculture
 ------------
 * `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
 
+Stereo Datasets (Photos in groups of 2 from left eye, right eye)
+
+http://vision.middlebury.edu/stereo/data/scenes2014/
+
+-------
 
 Biology
 -------

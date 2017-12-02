@@ -26,6 +26,12 @@ Contents
 Traffic Lights and Signs
 ----------
 
+Freecode camp challenge data sets traffic lights:
+
+https://medium.freecodecamp.org/recognizing-traffic-lights-with-deep-learning-23dae23287cc
+
+
+
 Caltech images of Pedestrians database:
 
 http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/

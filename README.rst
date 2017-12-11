@@ -23,8 +23,14 @@ Contents
 
 
 
-Traffic Lights and Signs
+Traffic Lights and Signs, Street view datasets
 ----------
+
+Google Street View dataset contains 62,058 high quality Google Street View images:
+
+http://crcv.ucf.edu/data/GMCP_Geolocalization/#Dataset
+
+
 
 Freecode camp challenge data sets traffic lights:
 

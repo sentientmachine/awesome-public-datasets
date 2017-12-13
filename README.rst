@@ -27,6 +27,11 @@ Contents
 Traffic Lights and Signs, Street view datasets
 ----------
 
+The Cambridge England driving Labeled Video Database (CamVid) is the first collection of videos with object class semantic labels, complete with metadata. 
+
+http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
+
+
 Google Street View dataset contains 62,058 high quality Google Street View images:
 
 http://crcv.ucf.edu/data/GMCP_Geolocalization/#Dataset

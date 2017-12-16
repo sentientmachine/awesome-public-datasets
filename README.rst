@@ -27,6 +27,12 @@ Contents
 Traffic Lights and Signs, Street view datasets
 ----------
 
+
+The Street View House Numbers (SVHN) Dataset is a real-world image dataset for developing machine learning and object recognition algorithms with minimal requirement on data preprocessing and formatting.
+
+http://ufldl.stanford.edu/housenumbers/
+
+
 The Cambridge England driving Labeled Video Database (CamVid) is the first collection of videos with object class semantic labels, complete with metadata. 
 
 http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
@@ -35,7 +41,6 @@ http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/
 Google Street View dataset contains 62,058 high quality Google Street View images:
 
 http://crcv.ucf.edu/data/GMCP_Geolocalization/#Dataset
-
 
 
 Freecode camp challenge data sets traffic lights:

@@ -27,6 +27,9 @@ Contents
 Traffic Lights and Signs, Street view datasets
 ----------
 
+LabelMeFacade, natural unconstained photograhs of city scenes and accompanying labels that illustrate the locations of various objects in those scenes. 
+https://github.com/sentientmachine/labelmefacade
+
 
 The Street View House Numbers (SVHN) Dataset is a real-world image dataset for developing machine learning and object recognition algorithms with minimal requirement on data preprocessing and formatting.
 

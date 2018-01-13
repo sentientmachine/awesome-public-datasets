@@ -70,6 +70,33 @@ http://vision.middlebury.edu/stereo/data/scenes2014/
 
 
 
+Healthcare data FHIR and EMR
+----------
+
+- https://datausa.io
+
+- https://data.worldbank.org
+
+- https://www.data.gov
+
+- https://www.quandl.com
+
+
+
+* `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
+* `Gapminder World demographic databases <http://www.gapminder.org/data/>`_
+* `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
+* `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
+* `Medicare Data File <http://go.cms.gov/19xxPN4>`_
+* `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
+* `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
+* `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
+* `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
+* `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_ 
+
+
+
+
 Agriculture
 ------------
 * `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
@@ -366,21 +393,6 @@ Government
 * `Uruguay <https://catalogodatos.gub.uy/>`_
 * `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
 * `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_
-
-
-Healthcare
-----------
-
-* `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
-* `Gapminder World demographic databases <http://www.gapminder.org/data/>`_
-* `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
-* `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
-* `Medicare Data File <http://go.cms.gov/19xxPN4>`_
-* `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
-* `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
-* `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
-* `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
-* `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_ 
 
 
 Image Processing

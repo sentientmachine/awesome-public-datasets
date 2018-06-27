@@ -18,14 +18,11 @@ Other amazingly awesome lists can be found in the
 
 
 
-Contents
-----------
-.. contents::
-
-
-
 Traffic Lights and Signs, Street view datasets
 ----------
+
+World's biggest UC Berkeley self driving car forward facing camera video dataset: http://bdd-data.berkeley.edu/
+
 
 LabelMeFacade, natural unconstained photograhs of city scenes and accompanying labels that illustrate the locations of various objects in those scenes. 
 https://github.com/sentientmachine/labelmefacade
